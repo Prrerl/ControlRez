@@ -11,3 +11,12 @@
             int condCntr = 0;
             Console.WriteLine("Введите слова ");
             while (cntr < val)
+            {
+                arr1[cntr] = Console.ReadLine();
+                if (arr1[cntr].Length <= 3)
+                {
+                    condCntr++;
+                }
+                cntr++;
+            }
+            if (condCntr > 0) 

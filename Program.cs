@@ -3,6 +3,7 @@
     class Program
     {
         static void Main(string[] args)
+        //Получаем вводные данные, создаем массив и два счетчика. 
         { 
             Console.WriteLine("Сколько слов вы собираетесь ввести? ");
             int val = Convert.ToInt32(Console.ReadLine());
@@ -12,6 +13,7 @@
             Console.WriteLine("Введите слова ");
             while (cntr < val)
             {
+            //Вводим слова в массив. Проверяем нужную длину. 
                 arr1[cntr] = Console.ReadLine();
                 if (arr1[cntr].Length <= 3)
                 {
@@ -21,6 +23,7 @@
             }
             if (condCntr > 0) 
             {
+            //Создаем второй массив, по количеству найденных слов. Переписываем нужные слова и выводим их на экран.
                             string[] arr2 = new string[condCntr];
             cntr = 0;
             Console.WriteLine("Слова, чья длина меньше трех симоволов: ");

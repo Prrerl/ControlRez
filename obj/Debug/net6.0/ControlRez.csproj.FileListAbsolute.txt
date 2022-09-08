@@ -1,0 +1,15 @@
+D:\GITREPOSITORI\GeekBrains\ControlRez\bin\Debug\net6.0\ControlRez.exe
+D:\GITREPOSITORI\GeekBrains\ControlRez\bin\Debug\net6.0\ControlRez.deps.json
+D:\GITREPOSITORI\GeekBrains\ControlRez\bin\Debug\net6.0\ControlRez.runtimeconfig.json
+D:\GITREPOSITORI\GeekBrains\ControlRez\bin\Debug\net6.0\ControlRez.dll
+D:\GITREPOSITORI\GeekBrains\ControlRez\bin\Debug\net6.0\ControlRez.pdb
+D:\GITREPOSITORI\GeekBrains\ControlRez\obj\Debug\net6.0\ControlRez.csproj.AssemblyReference.cache
+D:\GITREPOSITORI\GeekBrains\ControlRez\obj\Debug\net6.0\ControlRez.GeneratedMSBuildEditorConfig.editorconfig
+D:\GITREPOSITORI\GeekBrains\ControlRez\obj\Debug\net6.0\ControlRez.AssemblyInfoInputs.cache
+D:\GITREPOSITORI\GeekBrains\ControlRez\obj\Debug\net6.0\ControlRez.AssemblyInfo.cs
+D:\GITREPOSITORI\GeekBrains\ControlRez\obj\Debug\net6.0\ControlRez.csproj.CoreCompileInputs.cache
+D:\GITREPOSITORI\GeekBrains\ControlRez\obj\Debug\net6.0\ControlRez.dll
+D:\GITREPOSITORI\GeekBrains\ControlRez\obj\Debug\net6.0\refint\ControlRez.dll
+D:\GITREPOSITORI\GeekBrains\ControlRez\obj\Debug\net6.0\ControlRez.pdb
+D:\GITREPOSITORI\GeekBrains\ControlRez\obj\Debug\net6.0\ControlRez.genruntimeconfig.cache
+D:\GITREPOSITORI\GeekBrains\ControlRez\obj\Debug\net6.0\ref\ControlRez.dll
